@@ -1,2 +1,2 @@
 # dice-game
-<h1>A dice game created using HTML,CSS and JavaScript.Uses Random methods</h1>
+<h3>A dice game created using HTML,CSS and JavaScript.Uses Random methods</h3>
